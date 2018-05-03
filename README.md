@@ -1,1 +1,1 @@
-# doctore
+# doctor
