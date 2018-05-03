@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, .full-height {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: 'Arvo';
+  background-color: #bee6e2;
+}
+.header {
+  border: 1px solid yellow;
+  display: flex;
+}
+#header {
+  /*border: 1px solid blue;*/
+  display: flex;
+  height: 10%;
+  align-items: center;
+  justify-content: center;
+}
+.centre {
+  /*border: 1px solid green;*/
+  height: 80%;
+  width: 20%;
+  margin-left: 33%;
+  position: relative;
+  padding-top: 4%;
+}
+img {
+  margin-left: 25%;
+  width:40%;;
+}
+.circle1 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-left: 22%;
+  margin-top: -120%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+.circle2 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-left: 21%;
+  margin-top: -83%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+.circle3 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-top: -47%;
+  margin-left: 31%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+.circle4 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-left: 43%;
+  margin-top: -22%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+.circle5 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-left: 48%;
+  margin-top: -76%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+.circle6 {
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  margin-left: 53%;
+  margin-top: -93%;
+  height: 8%;
+  width: 15%;
+  border-radius: 60%;
+}
+#text {
+  /*border: 2px solid blue;*/
+  width: 60%;
+  height: 80%;
+  left: 72%;
+  top: -83%;
+  font-size: 85.5%;
+  position: relative;
+}
+.name {
+  margin-left: 1170px;
+  padding-top: 10px;
+  font-size: 15px;
+  color: #cbcecc;
+}
+.end {
+  /*border: 2px solid white;*/
+  color: #949290;
+  width: 20%;
+  margin-left: 1000px ;
+}
+#end2 {
+  font-size: 15px;
+}
